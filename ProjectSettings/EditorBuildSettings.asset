@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9124058e67660b449b6e5ab4a7978720
+    path: Assets/Scenes/MerryChristmas.unity
+    guid: 3955bd74e1a808846b26a182e16f01f5
   m_configObjects: {}

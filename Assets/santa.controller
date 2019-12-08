@@ -14,13 +14,13 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: baila
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -253,20 +253,20 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102076255386657030}
-    m_Position: {x: 288, y: 120, z: 0}
+    m_Position: {x: 360, y: 84, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102542090367185574}
-    m_Position: {x: 398.2282, y: -60.182373, z: 0}
+    m_Position: {x: 552, y: 324, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102911116229514990}
-    m_Position: {x: 456, y: 336, z: 0}
+    m_Position: {x: 168, y: 324, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 50, y: 20, z: 0}
-  m_EntryPosition: {x: 50, y: 120, z: 0}
+  m_AnyStatePosition: {x: 804, y: 0, z: 0}
+  m_EntryPosition: {x: 384, y: -156, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 1102076255386657030}
